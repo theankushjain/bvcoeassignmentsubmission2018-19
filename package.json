@@ -4,6 +4,7 @@
   "description": "assignment for posist",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next"
   },
@@ -18,4 +19,10 @@
     "react-apollo": "^2.1.11",
     "react-dom": "^16.4.2"
   }
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankush Jain",
+  "license": "ISC"
+>>>>>>> 0758b126889c92e96578992695b5c358693f02d0
 }

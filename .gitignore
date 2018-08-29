@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 .next
 node_modules
+=======
+node_modules/*
+node_modules
+node_modules/.bin/uuid
+.next
+.next/*
+.server/node_modules
+>>>>>>> 0758b126889c92e96578992695b5c358693f02d0

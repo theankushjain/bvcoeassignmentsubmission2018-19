@@ -5,7 +5,11 @@ const Layout = props => (
   <div>
     <Head>
       <title>BVCOE Assignment</title>
+<<<<<<< HEAD
 
+=======
+      <link rel="stylesheet" href="/_next/static/style.scss" />
+>>>>>>> 0758b126889c92e96578992695b5c358693f02d0
       <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
     </Head>
     <Navbar />

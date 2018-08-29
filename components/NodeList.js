@@ -22,7 +22,11 @@ class NodeList extends Component {
     if (this.props.data.loading) {
       return <div>loading nodes...</div>;
     } else {
+<<<<<<< HEAD
       return this.props.data.allNodes.map(node => {
+=======
+      return this.props.data.nodes.map(node => {
+>>>>>>> 0758b126889c92e96578992695b5c358693f02d0
         return (
           <li
             key={node.id}
